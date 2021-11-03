@@ -25,6 +25,8 @@
     border: 1px solid grey;
     margin-bottom: 4px;
     border-radius: 2px;
-
     box-sizing: border-box;
+}
+.newsletter h3 {
+    margin-top: 0;
 }
